@@ -1,1 +1,35 @@
-
+{
+  "home-carousel":[
+    {
+      "image_id":"1",
+      "image":""
+    },
+    {
+      "image_id":"1",
+      "image":""
+    },
+    {
+      "image_id":"1",
+      "image":""
+    }
+   ],
+  "about_us":"",
+  "services":[
+    {
+      "service_title":"",
+      "description":"",
+      "action":""
+    },
+    {
+      "service_title":"",
+      "description":"",
+      "action":""
+    },
+    {
+      "service_title":"",
+      "description":"",
+      "action":""
+    }
+   ],
+  "contact_us":""
+}
