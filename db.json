@@ -13,23 +13,23 @@
       "image":""
     }
    ],
-  "about_us":"",
+  "about_us":"ABOUT US",
   "services":[
     {
-      "service_title":"",
-      "description":"",
-      "action":""
+      "service_title":"BOOKS DIGITIZING",
+      "description":"SDVDV",
+      "action":"DSVSDV"
     },
     {
-      "service_title":"",
-      "description":"",
-      "action":""
+      "service_title":"DIGITIZING BOOKS",
+      "description":"SDFDV",
+      "action":"CONTACT US"
     },
     {
-      "service_title":"",
-      "description":"",
-      "action":""
+      "service_title":"BOOKS BOOKS DIGIIZING",
+      "description":"DVGDFSG",
+      "action":"CONTSCT US"
     }
    ],
-  "contact_us":""
+  "contact_us":"XYZ"
 }
